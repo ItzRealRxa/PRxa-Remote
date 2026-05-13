@@ -66,7 +66,7 @@ https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v1.0/tg.exe
 2. **Run** it — the bot starts automatically
 3. **Open Telegram** → send `/live` to your bot
 4. **Tap the button** to open the live stream
-5. **Click ⚙️** on the stream to open the Elite Control Panel
+5. **Click ⚙️** on the stream to open the P.Rxa Remote Control Panel
 
 ---
 
