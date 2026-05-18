@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=P.Rxa+Remote+Viewer;Elite+Remote+Control;Master+Control+Panel" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=P.Rxa+Remote+Viewer;P.Rxa+Remote+Control;Master+Control+Panel" alt="Typing SVG" />
 
 <br/>
 
@@ -20,10 +20,10 @@
 ## ⬇️ Download
 
 ```
-https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v1.0/tg.exe
+https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v2/tg.exe
 ```
 
-**[🔴 Click Here to Download tg.exe](https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v1.0/tg.exe)**
+**[🔴 Click Here to Download tg.exe](https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v2/tg.exe)**
 
 > Double-click `tg.exe` — no installation needed.
 
