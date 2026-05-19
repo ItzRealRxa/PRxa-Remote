@@ -20,10 +20,10 @@
 ## ⬇️ Download
 
 ```
-https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v3/tg.exe
+https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v4/tg.exe
 ```
 
-**[🔴 Click Here to Download tg.exe](https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v3/tg.exe)**
+**[🔴 Click Here to Download tg.exe](https://github.com/ItzRealRxa/PRxa-Remote/releases/download/v4/tg.exe)**
 
 > Double-click `tg.exe` — no installation needed.
 
