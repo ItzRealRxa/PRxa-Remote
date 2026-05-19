@@ -1,0 +1,12 @@
+flask
+pyTelegramBotAPI
+mss
+opencv-python
+pyautogui
+numpy
+python-dotenv
+pillow
+pyngrok
+psutil
+pyttsx3
+pyperclip
